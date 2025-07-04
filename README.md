@@ -41,7 +41,6 @@ SmartReview AI is a full-stack web application that provides intelligent, automa
 ### Backend Setup
 ```sh
 git clone https://github.com/your-username/code-review-ai.git
-cd code-review-ai
 cd backend
 npm install
 npm start
